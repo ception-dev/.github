@@ -9,4 +9,4 @@ This organization contains various projects for Ception.
 
 [ ] Provide detailed information about the organization
 
-[ ] Add detailed information about the projects
+[ ] Add detailed information about the 
